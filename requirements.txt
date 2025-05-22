@@ -1,0 +1,9 @@
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+sentence-transformers==2.2.2
+APScheduler==3.10.4
+python-dateutil==2.8.2
+numpy==1.24.3
+torch==2.0.1
+transformers==4.30.2
+huggingface-hub==0.16.4 
